@@ -12,8 +12,8 @@ jobs:
       - name: Authentication DockerHub
         uses: docker/login-action@v2.1.0
         with:
-          username: ${secrets.DOCKERHUB_USER}
-          password: ${secrets.DOCKERHUB_PWD}
+          username: josealceu
+          password: l1nd0zezinh@1
         
     
       
